@@ -9,7 +9,7 @@ Web Audio API playback, volume, and sound management for the browser, built with
 
 ## Installation
 ```bash
-npm install github:starlet-web-engine/starweb-audio
+npm install github:starweb-libs/audio
 ```
 
 ## License
